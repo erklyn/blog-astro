@@ -23,6 +23,10 @@ As developer we have a certain advantage, and with enough passion or eagerness. 
 
 ## How I will break away from the 4HL
 
-Although I do not hate the 4HL, working for someone or being a just an resource to someone does not sit well with me. I want to build something for myself. Grind for myself and create something on my own. As a developer I have seen how tech moves. As a contractor I have seen how clients act/behave for certain things, I have seen problems that not being worthy of time to actually dedicate developer time. I want to use my experiences and create something for my own. Not for escaping the 4HL but atleast I will be doing things for myself instead of for someoneelse.
+Although I do not hate the 4HL, working for someone or being just a resource to someone(or a company) does not sit well with me. I want to build something for myself. Grind for myself and create something on my own. As a developer I have seen how tech moves. As a contractor I have seen how clients act/behave for certain things, I have seen problems that not being worthy of time to actually dedicate developer time. I want to use my experiences and create something for my own. Not for escaping the 4HL but atleast I will be doing things for myself instead of for someoneelse.
 
 If it fails, great. Experience. If it succeeds, even better. Without taking the first step I won't know for certain. I need to know, I need to get better. I need to fail in order to succeed later.
+
+As developers we solve problems all the time (we create some as well), finding a problem is not that hard these days. Everyone has ideas but not that many actually takes action. Ideas matter but execution is makes or brakes things. Without execution, The idea worthless most of the time. I want to take action and execute ideas without thinking about if it's worthy of my time or not. I think I have enough time try a few ideas out without worrying about if I am wasting my time. As I said before, If it fails it will be a experience...
+
+Thank you for reading my rant/thoughts. Hopefully something worth reading next time :)

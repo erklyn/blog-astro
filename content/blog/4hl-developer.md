@@ -2,7 +2,7 @@
 external: false
 title: "4HL Developer"
 description: "My thoughts on 4HL and how I am going to escape it."
-date: 2023-07-28
+date: 2023-07-27
 ---
 
 # 4HL and Random thoughts

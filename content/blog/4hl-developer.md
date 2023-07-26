@@ -23,7 +23,7 @@ As developer we have a certain advantage, and with enough passion or eagerness. 
 
 ## How I will break away from the 4HL
 
-Although I do not hate the 4HL, working for someone or being just a resource to someone(or a company) does not sit well with me. I want to build something for myself. Grind for myself and create something on my own. As a developer I have seen how tech moves. As a contractor I have seen how clients act/behave for certain things, I have seen problems that not being worthy of time to actually dedicate developer time. I want to use my experiences and create something for my own. Not for escaping the 4HL but atleast I will be doing things for myself instead of for someoneelse.
+Although I do not hate the 4HL, working for someone or being just a resource to someone(or a company) does not sit well with me. I want to build something for myself. Grind for myself and create something on my own. As a developer I have seen how tech moves. As a contractor I have seen how clients act/behave for certain things, I have seen problems that not being worthy of time to actually dedicate developer time. I want to use my experiences and create something for my own. Not for escaping the 4HL but atleast I will be doing things for myself instead of for someone else.
 
 If it fails, great. Experience. If it succeeds, even better. Without taking the first step I won't know for certain. I need to know, I need to get better. I need to fail in order to succeed later.
 

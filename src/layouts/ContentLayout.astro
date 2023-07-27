@@ -33,7 +33,7 @@ const formattedDate = new Date(date).toLocaleDateString("en-us", {
     <!-- Global Metadata -->
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <meta name="generator" content="Blogster" />
+    <meta name="generator" content="erklyn's blog" />
     <Favicon />
     <slot name="meta" />
     <GoogleFont />
@@ -41,18 +41,18 @@ const formattedDate = new Date(date).toLocaleDateString("en-us", {
     <FontAwesome />
   </head>
 
-  <body
-    class="max-w-3xl mx-auto min-h-screen px-6 sm:px-8"
-  >
+  <body class="max-w-3xl mx-auto min-h-screen px-6 sm:px-8">
     <Header />
     <main id="main">
       <section class="blog-post prose max-w-none prose-newspaper">
-        <h1 class="
-            m-0 pt-1 mb-[0.375em] 
-            after:mt-6 after:content-[''] after:block after:h-[1px] after:w-[100%] after:border-b-[1px] after:border-current  
-        ">{title}</h1>
+        <h1
+          class="m-0 pt-1 mb-[0.375em] after:mt-6 after:content-[''] after:block after:h-[1px] after:w-[100%] after:border-b-[1px] after:border-current"
+        >
+          {title}
+        </h1>
         <time class="block mb-[2em] text-text-muted">{formattedDate}</time>
         <slot name="content" />
+        <slot name="like" />
       </section>
     </main>
     <Footer />

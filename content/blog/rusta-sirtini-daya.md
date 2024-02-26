@@ -7,7 +7,7 @@ date: 2024-02-26
 ---
 
 ## Neden Rust
-Neden Rust, bir çok araştırma, çalışma ve yazının belirtiği üzere, yüksek orandaki yazılım hataları memory safety'den kaynaklanıyor, bunun dışında faktörler yok mu kesinlikle var ama  çoğunluk sistemdeki memory'e hükmetmek isterken yaptığımız hatalardan kaynaklanıyor,
+Neden Rust, bir çok araştırma, çalışma ve yazının belirtiği üzere, yüksek orandaki yazılım hataları memory bağlantılı hatalardan kaynaklanıyor, bunun dışında faktörler yok mu kesinlikle var ama  çoğunluk sistemdeki memory'e hükmetmek isterken yaptığımız hatalardan kaynaklanıyor,
 
 - Rust'ı Rust safe olarak yazarsak (yani unsafe blokları olmadan) biz yazılımcıların hata yapmamıza izin vermiyor. Bunu borrow checker ve ownership modeli ile sağlıyor, Ownership modelini binlerce Medium yazısından öğrenebilirsiniz, şahsi fikrim hiçbiri düzgün bir şekilde anlatamıyor ve benzetmelerle mental modeli size aktarmaya çalışıyorlar, benim şahsi fikrim Rust Book üzerinden anlamaya çalışmanız ve bir Rust programı yazarken compiler'ın dediklerine uymanız.
 

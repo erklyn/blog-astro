@@ -32,6 +32,6 @@ Bence Rust kazanıcak, az önce söylediğim gibi ben daha önce bu dilden kaçt
 
 Hem iş veren tarafından baktığımda, hemde bir yazılımcı olarak baktığımda iki taraf içinde sadece artı görüyorum. Rust kazanıcak derken diğer bütün diller ölücek mi diyorum kesinlikle hayır, ama Rust'ı daha fazla yerde göreceğimize ve görmemiz gerektiğine inanıyorum.
 
-Türkiye Rust Community'ye dahil olup Türk Rustaceanların arasında yer almak isterseniz diye Discord davet linkini açıklamaya bırakıyorum.
+Türkiye Rust Community'ye dahil olup Türk Rustaceanların arasında yer almak isterseniz diye Discord davet linkini [buraya](https://discord.gg/QRdP9CV7pE) bırakıyorum.
 
 Günün sonunda Rust her yazılım dili gibi bir araç size en rahat geleni kullanabilirsiniz.
